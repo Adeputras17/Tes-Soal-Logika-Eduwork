@@ -3,5 +3,5 @@ let b = 7;
 
 [a, b] = [b, a];
 
-console.log(a); 
-console.log(b); 
+console.log('a = ', a);
+console.log('b = ', b);
